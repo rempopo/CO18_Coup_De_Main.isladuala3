@@ -1,0 +1,14 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\russe\Documents\Arma 3 - Other Profiles\Ka6aH\mpmissions\CO18_Coup_De_Main_1A.isladuala3\ 
+Mission fodler name:   CO18_Coup_De_Main_1A 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Conversations 
+    Folder is not used: Removing EditorRadioSettings 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing FARP 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing POM 
+Done! 
