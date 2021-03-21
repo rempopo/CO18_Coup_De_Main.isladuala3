@@ -112,7 +112,7 @@ kit_port_amg = [
 ];
 kit_port_cargo = [
 	[],
-	[["CUP_20Rnd_762x51_G3",30],["HandGrenade",20],["CUP_30Rnd_9x19_UZI",30],["CUP_120Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",20],["SmokeShellGreen",20],["SmokeShellRed",20],["SmokeShellYellow",10],["SmokeShellBlue",10],["SmokeShell",20]],
+	[["CUP_20Rnd_762x51_G3",30],["HandGrenade",20],["SatchelCharge_Remote_Mag",3],["CUP_30Rnd_9x19_UZI",30],["CUP_120Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",20],["SmokeShellGreen",20],["SmokeShellRed",20],["SmokeShellYellow",10],["SmokeShellBlue",10],["SmokeShell",20]],
 	[["ACE_elasticBandage",35],["ACE_fieldDressing",35]],
 	[]
 ];

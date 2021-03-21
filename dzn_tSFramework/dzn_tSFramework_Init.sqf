@@ -20,7 +20,7 @@ tSF_module_JIPTeleport = true;
 tSF_module_MissionConditions = true;
 
 tSF_module_CCP = true;
-tSF_module_FARP = true;
+tSF_module_FARP = false;
 
 tSF_module_Interactives = false;
 tSF_module_ACEActions = true;
