@@ -1,4 +1,4 @@
-#  CO18_Coup_De_Main_1A.isladuala3
+#  CO18_Coup_De_Main.isladuala3
 Portuguese marines land on enemy held river bank.
 
 <img src='https://github.com/rempopo/CO18_Coup_De_Main_1A.isladuala3/raw/main/overview.jpg' />	
